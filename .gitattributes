@@ -1,0 +1,4 @@
+* text=auto eol=lf
+
+# 生成的大 HTML 产物不参与 diff 统计
+*.html linguist-generated=true
